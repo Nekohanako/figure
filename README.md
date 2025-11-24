@@ -1,6 +1,6 @@
 # V2RayConfig
 
-This project automatically fetches V2Ray configurations from Telegram channels every 30 minutes using GitHub Actions and posts the best config to @V2RayRootFree.
+This project automatically fetches V2Ray configurations from Telegram channels every 30 minutes using GitHub Actions and posts the best config to @proxyfig.
 
 **[نسخه فارسی (Persian)](README.fa.md)**
 
@@ -28,6 +28,6 @@ You can use this file to see which channels are providing the most configs.
 ## Notes
 
 - Configurations are updated every 30 minutes.
-- The best config is posted to the Telegram channel @V2RayRootFree.
+- The best config is posted to the Telegram channel @proxyfig.
 - Some channels may be invalid or contain no configs. Check `Logs/invalid_channels.txt` for details.
-- **Know a new channel?** If you know a Telegram channel that provides V2Ray configs, please share it in the [Issues](https://github.com/USERNAME/REPOSITORY/issues) section, and we'll add it to the list!
+- **Know a new channel?** If you know a Telegram channel that provides V2Ray configs, please share it in the [Issues](https://github.com/nekohanako/REPOSITORY/issues) section, and we'll add it to the list!
